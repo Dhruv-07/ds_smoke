@@ -2537,7 +2537,7 @@ h6 {
 }
 
 .main-menu__4 ul li a {
-    color: #000;
+    color: #fefefe;
     font-weight: 500;
 }
 
@@ -2574,7 +2574,7 @@ h6 {
 }
 
 .menu-area__right--4 .item i {
-    color: #000;
+    color: #ffffff;
 }
 
 @media (max-width: 991px) {
@@ -9242,23 +9242,28 @@ html .ui-button.ui-state-disabled:active {
 /*# sourceMappingURL=main.css.map */
 
 
+
+/* dhrcoder  */
+
 /* slideshow */
 .slideshow{
     animation:animate 16s ease-in-out infinite;
 }
 
+
+
 @keyframes animate{
     0%,100%{
         background-image: url( https://assets.change.org/photos/5/rd/mm/BORDMMGrjILwlOe-1600x900-noPad.jpg?1669139467);
-        /* animation-delay: 6s;  */
     }
     25%{
         background-image: url( https://cdnb.artstation.com/p/assets/images/images/015/523/729/large/simone-chiodi-bud-comp.jpg?1548685741);
     }
     50%{
-        background-image: url( https://4kwallpapers.com/images/wallpapers/grim-reaper-smoke-3840x2160-12466.jpg);
+        background-image: url( https://cutewallpaper.org/21/hd-smoke/Video-Background-HD-Smoke-HD-Style-Proshow-Styleproshow.org-GIF.gif);
     }
     75%{
         background-image: url( https://wallbox.ru/wallpapers/main/201532/adcce36ddc640c2.jpg);
     }
 }
+
