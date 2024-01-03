@@ -522,10 +522,7 @@ span.border-effect:hover {
     height: 100%;
     left: 0;
     width: 100%;
-    -webkit-transition: all 800ms cubic-bezier(0.77, 0, 0.175, 1);
-    -o-transition: all 800ms cubic-bezier(0.77, 0, 0.175, 1);
-    transition: all 800ms cubic-bezier(0.77, 0, 0.175, 1);
-}
+   }
 
 .ctn-preloader .loader.dark_bg .loader-section .bg {
     background: #010103;
@@ -540,9 +537,6 @@ span.border-effect:hover {
 
 .ctn-preloader.loaded .loader-section .bg {
     width: 0;
-    -webkit-transition: 0.7s 0.3s allcubic-bezier(0.1, 0.1, 0.1, 1);
-    -o-transition: 0.7s 0.3s allcubic-bezier(0.1, 0.1, 0.1, 1);
-    transition: 0.7s 0.3s allcubic-bezier(0.1, 0.1, 0.1, 1);
 }
 
 @-webkit-keyframes spinner {
