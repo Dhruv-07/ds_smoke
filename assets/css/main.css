@@ -9248,16 +9248,8 @@ html .ui-button.ui-state-disabled:active {
 
 @keyframes animate{
     0%,100%{
-        background-image: url( https://sultanpalast-dresden.de/wp-content/uploads/2021/12/1676969863-huge-scaled.jpg);
+        background-image: url(https://cdnb.artstation.com/p/assets/images/images/015/523/729/large/simone-chiodi-bud-comp.jpg?1548685741);
     }
-    25%{
-        background-image: url( https://cdnb.artstation.com/p/assets/images/images/015/523/729/large/simone-chiodi-bud-comp.jpg?1548685741);
-    }
-    50%{
-        background-image: url( https://cutewallpaper.org/21/hd-smoke/Video-Background-HD-Smoke-HD-Style-Proshow-Styleproshow.org-GIF.gif);
-    }
-    75%{
-        background-image: url( https://wallbox.ru/wallpapers/main/201532/adcce36ddc640c2.jpg);
-    }
+    
 }
 
